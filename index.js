@@ -9,8 +9,8 @@ const num3 = 8;
 const num4 = 2;
 const mod = num3 / num4;
 console.log (mod);
-const numbers = [20, 10, 15, 19, 5];
-const max = Math.max(...numbers);
+
+const max = Math.max(20, 10, 15, 19, 5);
 console.log( max)
 
 
